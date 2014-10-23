@@ -1,0 +1,1 @@
+Please open the PCB file whit the PADS9.5
