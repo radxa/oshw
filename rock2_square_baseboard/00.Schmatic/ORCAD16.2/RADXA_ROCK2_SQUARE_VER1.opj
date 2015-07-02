@@ -1,0 +1,203 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\radxa_rock2_square_ver1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\radxa_rock2_square_ver1.dsn")
+      (Path "Design Resources" ".\radxa_rock2_square_ver1.dsn" "RK3288_REF")
+      (Select "Design Resources" ".\radxa_rock2_square_ver1.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 376"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1013 50 464")
+        (Scroll "475 365")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "15.JM23029(USB-SATA)"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1038 75 489")
+        (Scroll "-66 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "14.TF Card&GE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1063 100 514")
+        (Scroll "-69 0")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "12.AP6XXX-WIFI/BT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1088 125 539")
+        (Scroll "-69 0")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "07.Audio Codec-ES8323"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1138 175 589")
+        (Scroll "-66 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "11.LCM-LVDS Panel"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 963 0 414")
+        (Scroll "-66 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "09.LCM-eDP Panel"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1088 125 508")
+        (Scroll "117 274")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "16.MXM-CONNECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1075 50 464")
+        (Scroll "-97 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "13.TP COF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1100 75 489")
+        (Scroll "-100 0")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "03.Block Diagram"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1125 100 514")
+        (Scroll "-100 0")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "04.Power Tree-ACT8846"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1150 125 539")
+        (Scroll "-75 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "05.Power-ACT8846_2CELL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1175 150 564")
+        (Scroll "-100 0")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "06.USB Port"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1200 175 589")
+        (Scroll "-97 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "08.Camera-CIF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1025 0 414")
+        (Scroll "-97 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "10.HDMI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1050 25 439")
+        (Scroll "-97 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "01.Index"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1075 50 464")
+        (Scroll "-97 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\项目文档\3288\量产版本底板\库文件\00.SCHMATIC\ORCAD16.2\RADXA_ROCK2_SQUARE_VER1.DSN")
+      (Schematic "RK3288_REF")
+      (Page "02.Change List")))
+  (MPSSessionName "princepeng"))
